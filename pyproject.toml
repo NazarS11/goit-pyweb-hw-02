@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "goit-pyweb-hw-02"
+version = "0.1.0"
+description = ""
+authors = ["NazarS11 <bamperor@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+colorama = "^0.4.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
